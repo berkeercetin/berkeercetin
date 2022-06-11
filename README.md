@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying on Computeer Engineering !
-- 🌱 I’m currently learning Java,C#, Angular
+- 🌱 I’m currently developing Angular, Ionic.
 - 📫 How to reach me: berkeercetin@gmail.com
 -->
 
