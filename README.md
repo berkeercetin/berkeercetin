@@ -38,8 +38,3 @@
 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkeercetin&show_icons=true&theme=light&locale=en&layout=compact" alt="h-fares" align=center/></p>
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=berkeercetin&show_icons=true&theme=light&locale=en" alt="h-fares" align=center/></p>
